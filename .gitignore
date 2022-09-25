@@ -5,6 +5,7 @@ tmp/
 *.bak
 *.pkl
 bears/
+screws/
 __pycache__/
 .last_checked
 .gitconfig
